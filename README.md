@@ -1,12 +1,5 @@
 <h1 align="center">Hi 👋, I'm Messias Junior</h1>
 <h3 align="center">Android and Kotlin developer</h3>
-
-<p align="left"> <a href="https://twitter.com/pyx_dev" target="blank"><img src="https://img.shields.io/twitter/follow/pyx_dev?logo=twitter&style=for-the-badge" alt="pyx_dev" /></a> </p>
-
-- 📝 I regularly write articles on [https://messiasjunior.medium.com/](https://messiasjunior.medium.com/)
-
-- 📫 How to reach me **messiaslima.03@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pyx_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pyx_dev" height="30" width="40" /></a>
